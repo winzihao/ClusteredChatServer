@@ -5,6 +5,8 @@
 
 编译方式
 cd build
+rm -rf *
 cmake ..
 make
-rm -rf *
+./ChatServer
+
